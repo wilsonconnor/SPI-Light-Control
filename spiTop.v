@@ -1,4 +1,4 @@
-module SPITop(
+module spiTop(
     input clk,
     input getVal,
     input reset,
